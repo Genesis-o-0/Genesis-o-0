@@ -9,8 +9,6 @@ I'm a passionate Front-End Developer skilled in HTML5, CSS3, JavaScript, React, 
 
 ## Contact
 - **Email:** mohamed.ahmed.2912023@gmail.com
-- **Phone:** +20 12 07174770
-- **Location:** Alexandria, Egypt
 
 ## Connect with Me
 - [GitHub](https://github.com/Genesis-o-0)
