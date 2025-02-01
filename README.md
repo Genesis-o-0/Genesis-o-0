@@ -1,8 +1,7 @@
 # Hi there, I'm Mohamed Ahmed 👋
 
-
-## About Me
 I'm a passionate Front-End Developer skilled in HTML5, CSS3, JavaScript, React, Next.js, and Vue.js. I focus on building responsive, user-friendly web applications.
+
 ## Skills
 - **Languages:** JavaScript, TypeScript, HTML5, CSS3
 - **Frameworks & Libraries:** React, Next.js, Vue.js, Redux, Tailwind CSS
