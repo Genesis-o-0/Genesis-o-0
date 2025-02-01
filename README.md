@@ -12,7 +12,7 @@ I'm a passionate Front-End Developer skilled in HTML5, CSS3, JavaScript, React, 
 
 ## Connect with Me
 - [GitHub](https://github.com/Genesis-o-0)
-- [LinkedIn](https://www.linkedin.com/in/your-profile-link)
+- [LinkedIn](https://www.linkedin.com/in/mohamed-lotfy007/)
 
 ## Streak Stats
 ![Mohamed's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=genesis-o-0&)
